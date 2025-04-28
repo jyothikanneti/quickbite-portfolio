@@ -1,0 +1,101 @@
+order_id,order_date,restaurant_name,item_name,category,quantity,price,total_amount,location,payment_mode,status
+QB2000,2025-03-30 08:46:57,Burgertown USA,Think Beverage,Dessert,3,93.34,280.02,Houston,Credit Card,Delivered
+QB2001,2025-04-23 16:26:44,Burgertown USA,More Sushi,Sushi,3,397.67,1193.01,New York,Cash on Delivery,Delivered
+QB2002,2025-04-15 01:24:34,Roll N Sushi,Body Wrap,Indian,1,182.43,182.43,New York,Credit Card,Cancelled
+QB2003,2025-04-24 17:02:14,Papa Mozza,Chance Dessert,Wrap,5,422.79,2113.95,Chicago,Credit Card,Delivered
+QB2004,2025-04-19 04:39:33,Southern Spice,Site Pizza,Dessert,4,489.99,1959.96,New York,Credit Card,Cancelled
+QB2005,2025-04-09 17:41:31,Tex Mex Express,Nor Sushi,Pizza,4,447.36,1789.44,Chicago,Credit Card,Delivered
+QB2006,2025-04-25 16:56:15,Roll N Sushi,Someone Pizza,Wrap,1,355.63,355.63,Chicago,UPI,Delivered
+QB2007,2025-04-15 22:47:30,Southern Spice,Matter Sushi,Beverage,1,391.03,391.03,Los Angeles,Cash on Delivery,Delivered
+QB2008,2025-04-22 00:20:37,Tex Mex Express,Significant Beverage,Indian,1,194.11,194.11,Phoenix,Net Banking,Cancelled
+QB2009,2025-03-30 19:41:58,Roll N Sushi,Detail Beverage,Sushi,3,206.18,618.54,Los Angeles,Cash on Delivery,Delivered
+QB2010,2025-04-22 13:00:59,Burgertown USA,Thus Beverage,Indian,4,345.28,1381.12,New York,UPI,Delivered
+QB2011,2025-04-01 17:16:16,Southern Spice,Learn Indian,Indian,5,295.67,1478.35,Houston,Net Banking,Delivered
+QB2012,2025-04-11 05:54:03,Roll N Sushi,Up Burger,Sushi,4,210.46,841.84,Los Angeles,Credit Card,Delivered
+QB2013,2025-04-18 03:16:15,Papa Mozza,Arrive Beverage,Beverage,4,147.7,590.8,Houston,UPI,Delivered
+QB2014,2025-04-15 12:04:17,Papa Mozza,Million Dessert,Burger,4,197.47,789.88,Chicago,UPI,Delivered
+QB2015,2025-04-17 12:27:26,Roll N Sushi,Performance Dessert,Indian,4,406.39,1625.56,Houston,Net Banking,Delivered
+QB2016,2025-04-11 23:36:54,Tex Mex Express,Become Wrap,Indian,4,430.19,1720.76,New York,Credit Card,Delayed
+QB2017,2025-04-24 07:18:49,Papa Mozza,The Pizza,Beverage,5,219.23,1096.15,Phoenix,Credit Card,Delivered
+QB2018,2025-03-29 05:51:08,Roll N Sushi,Season Burger,Sushi,4,302.39,1209.56,Chicago,Net Banking,Delivered
+QB2019,2025-03-31 00:41:39,Tex Mex Express,Feeling Burger,Pizza,1,147.62,147.62,New York,UPI,Delivered
+QB2020,2025-04-02 12:43:41,Papa Mozza,Especially Burger,Burger,5,122.69,613.45,Phoenix,UPI,Delivered
+QB2021,2025-04-03 19:07:41,Papa Mozza,Article Indian,Wrap,2,325.71,651.42,Phoenix,UPI,Cancelled
+QB2022,2025-04-24 04:56:29,Burgertown USA,Look Sushi,Beverage,4,463.37,1853.48,Houston,UPI,Delivered
+QB2023,2025-03-30 21:55:52,Burgertown USA,Type Beverage,Dessert,1,416.96,416.96,Los Angeles,UPI,Delivered
+QB2024,2025-04-22 11:17:35,Papa Mozza,Television Wrap,Sushi,3,339.97,1019.91,Chicago,Cash on Delivery,Delivered
+QB2025,2025-04-10 13:20:51,Southern Spice,Concern Indian,Burger,3,198.96,596.88,Houston,Credit Card,Delivered
+QB2026,2025-04-21 01:04:27,Roll N Sushi,Last Sushi,Burger,2,189.56,379.12,Los Angeles,Net Banking,Delivered
+QB2027,2025-04-24 22:46:25,Papa Mozza,Blood Wrap,Dessert,3,422.22,1266.66,New York,Cash on Delivery,Delivered
+QB2028,2025-03-30 20:59:53,Roll N Sushi,Address Dessert,Wrap,3,135.32,405.96,Chicago,UPI,Delivered
+QB2029,2025-04-12 19:50:14,Burgertown USA,Next Indian,Wrap,1,292.32,292.32,Los Angeles,Net Banking,Delivered
+QB2030,2025-04-13 15:10:16,Roll N Sushi,Senior Dessert,Wrap,3,371.02,1113.06,Chicago,Cash on Delivery,Delivered
+QB2031,2025-04-23 14:23:35,Papa Mozza,Road Beverage,Burger,4,271.88,1087.52,Chicago,UPI,Delivered
+QB2032,2025-04-14 08:30:36,Papa Mozza,Career Wrap,Indian,4,389.5,1558.0,Houston,Credit Card,Cancelled
+QB2033,2025-04-04 08:25:31,Tex Mex Express,Her Pizza,Indian,1,274.39,274.39,Houston,Cash on Delivery,Delivered
+QB2034,2025-03-28 02:12:39,Papa Mozza,Special Beverage,Sushi,3,181.64,544.92,Los Angeles,UPI,Delivered
+QB2035,2025-04-04 19:25:20,Tex Mex Express,Project Indian,Sushi,3,352.74,1058.22,Los Angeles,Net Banking,Delivered
+QB2036,2025-04-17 02:53:46,Roll N Sushi,So Beverage,Indian,1,170.43,170.43,Los Angeles,Credit Card,Delivered
+QB2037,2025-04-01 02:06:57,Burgertown USA,Important Burger,Sushi,3,245.35,736.05,Phoenix,UPI,Delivered
+QB2038,2025-04-24 13:24:57,Papa Mozza,Art Sushi,Burger,4,248.61,994.44,Houston,Credit Card,Delivered
+QB2039,2025-04-22 02:21:38,Tex Mex Express,Including Indian,Pizza,2,226.76,453.52,Los Angeles,Cash on Delivery,Delayed
+QB2040,2025-04-05 20:44:53,Tex Mex Express,Voice Beverage,Wrap,4,144.69,578.76,Phoenix,UPI,Delivered
+QB2041,2025-04-10 06:18:40,Roll N Sushi,Scientist Beverage,Sushi,3,474.36,1423.08,Phoenix,Cash on Delivery,Delayed
+QB2042,2025-04-20 05:52:27,Tex Mex Express,Special Dessert,Dessert,4,431.56,1726.24,New York,UPI,Cancelled
+QB2043,2025-03-28 16:48:11,Southern Spice,Feel Indian,Dessert,5,300.62,1503.1,Los Angeles,Cash on Delivery,Delivered
+QB2044,2025-04-18 01:59:55,Papa Mozza,Catch Pizza,Sushi,1,180.58,180.58,Los Angeles,UPI,Delivered
+QB2045,2025-04-10 08:11:38,Southern Spice,Buy Wrap,Indian,2,407.4,814.8,Los Angeles,Cash on Delivery,Delivered
+QB2046,2025-04-03 06:59:43,Tex Mex Express,Hundred Pizza,Beverage,1,312.08,312.08,Houston,Cash on Delivery,Delivered
+QB2047,2025-04-21 02:01:22,Burgertown USA,Away Indian,Beverage,3,142.19,426.57,Houston,Cash on Delivery,Delayed
+QB2048,2025-03-31 01:56:17,Southern Spice,Provide Indian,Dessert,1,76.86,76.86,New York,Cash on Delivery,Delivered
+QB2049,2025-04-03 12:01:00,Roll N Sushi,Free Wrap,Sushi,1,301.37,301.37,Los Angeles,UPI,Delivered
+QB2050,2025-03-27 11:34:08,Papa Mozza,Simple Wrap,Pizza,4,386.44,1545.76,Phoenix,Cash on Delivery,Delivered
+QB2051,2025-04-19 09:09:19,Papa Mozza,North Dessert,Burger,4,360.53,1442.12,Los Angeles,Credit Card,Delivered
+QB2052,2025-04-09 00:12:45,Papa Mozza,Room Indian,Indian,5,63.48,317.4,Los Angeles,UPI,Delivered
+QB2053,2025-04-02 02:58:49,Papa Mozza,Set Indian,Pizza,1,63.89,63.89,Houston,UPI,Cancelled
+QB2054,2025-04-22 02:48:47,Burgertown USA,Southern Sushi,Indian,2,291.45,582.9,Houston,Cash on Delivery,Delivered
+QB2055,2025-04-09 14:23:44,Tex Mex Express,Group Burger,Dessert,2,249.75,499.5,Los Angeles,UPI,Delivered
+QB2056,2025-04-14 03:25:51,Papa Mozza,Capital Beverage,Sushi,4,289.54,1158.16,Los Angeles,Cash on Delivery,Delivered
+QB2057,2025-04-10 06:44:49,Roll N Sushi,Outside Indian,Beverage,2,257.73,515.46,Chicago,Cash on Delivery,Delivered
+QB2058,2025-04-07 18:14:58,Southern Spice,News Beverage,Dessert,4,459.55,1838.2,Chicago,UPI,Delivered
+QB2059,2025-04-08 09:59:43,Southern Spice,Leave Indian,Burger,2,160.57,321.14,Houston,Cash on Delivery,Delivered
+QB2060,2025-03-29 03:24:36,Tex Mex Express,Later Burger,Burger,4,180.65,722.6,Phoenix,Credit Card,Delivered
+QB2061,2025-04-08 10:12:34,Roll N Sushi,Should Wrap,Dessert,4,199.98,799.92,Phoenix,Cash on Delivery,Delivered
+QB2062,2025-04-10 18:19:02,Burgertown USA,Speak Beverage,Sushi,1,137.73,137.73,Los Angeles,Net Banking,Delayed
+QB2063,2025-04-21 06:19:39,Southern Spice,Personal Indian,Indian,1,455.26,455.26,Chicago,Net Banking,Delivered
+QB2064,2025-03-30 19:04:02,Papa Mozza,Hot Burger,Dessert,1,52.45,52.45,Houston,Credit Card,Delivered
+QB2065,2025-04-22 23:23:41,Roll N Sushi,Walk Burger,Pizza,4,187.42,749.68,New York,Cash on Delivery,Delivered
+QB2066,2025-04-24 13:05:07,Tex Mex Express,Still Wrap,Dessert,4,364.68,1458.72,Phoenix,Net Banking,Delivered
+QB2067,2025-04-25 15:49:17,Roll N Sushi,Behavior Beverage,Dessert,3,194.6,583.8,Chicago,Credit Card,Delivered
+QB2068,2025-04-14 11:36:30,Roll N Sushi,Little Indian,Wrap,5,344.25,1721.25,Chicago,UPI,Cancelled
+QB2069,2025-04-06 12:48:12,Papa Mozza,Tv Indian,Pizza,1,145.59,145.59,Phoenix,Credit Card,Delivered
+QB2070,2025-04-10 03:35:14,Tex Mex Express,To Wrap,Wrap,1,222.31,222.31,New York,Cash on Delivery,Delivered
+QB2071,2025-04-01 01:47:44,Burgertown USA,Fine Sushi,Pizza,3,196.75,590.25,Los Angeles,Credit Card,Delivered
+QB2072,2025-04-14 14:44:36,Burgertown USA,High Indian,Beverage,4,282.82,1131.28,Los Angeles,Net Banking,Delivered
+QB2073,2025-04-17 11:50:05,Tex Mex Express,Strategy Wrap,Wrap,1,483.21,483.21,Phoenix,Cash on Delivery,Delivered
+QB2074,2025-04-16 13:28:34,Papa Mozza,Store Pizza,Burger,5,332.35,1661.75,New York,Cash on Delivery,Delivered
+QB2075,2025-04-03 20:03:21,Burgertown USA,Discussion Pizza,Burger,1,144.16,144.16,Los Angeles,Cash on Delivery,Delivered
+QB2076,2025-04-06 21:56:33,Tex Mex Express,Difficult Burger,Pizza,1,116.64,116.64,Chicago,Credit Card,Delivered
+QB2077,2025-04-16 00:04:12,Papa Mozza,Last Sushi,Beverage,2,180.75,361.5,Houston,Cash on Delivery,Delivered
+QB2078,2025-04-22 16:11:50,Burgertown USA,Describe Beverage,Indian,2,182.29,364.58,Houston,Cash on Delivery,Delivered
+QB2079,2025-04-05 12:49:25,Tex Mex Express,Area Beverage,Burger,5,443.2,2216.0,New York,Cash on Delivery,Delivered
+QB2080,2025-03-29 21:49:52,Tex Mex Express,Next Beverage,Burger,4,137.41,549.64,Phoenix,Credit Card,Delivered
+QB2081,2025-04-03 03:12:23,Burgertown USA,Education Beverage,Pizza,1,213.79,213.79,Phoenix,Cash on Delivery,Delivered
+QB2082,2025-04-15 08:28:08,Southern Spice,Never Beverage,Sushi,3,180.5,541.5,Phoenix,Credit Card,Delivered
+QB2083,2025-04-23 22:42:55,Burgertown USA,Able Sushi,Wrap,4,429.06,1716.24,Houston,Credit Card,Cancelled
+QB2084,2025-04-23 05:59:34,Tex Mex Express,Simply Beverage,Indian,5,293.94,1469.7,New York,UPI,Delivered
+QB2085,2025-04-15 16:08:51,Burgertown USA,Within Pizza,Wrap,2,297.3,594.6,Los Angeles,Cash on Delivery,Delivered
+QB2086,2025-03-30 13:48:55,Southern Spice,Feel Burger,Indian,1,356.85,356.85,Chicago,Credit Card,Delivered
+QB2087,2025-03-29 02:51:39,Southern Spice,Camera Beverage,Pizza,1,148.88,148.88,Los Angeles,Credit Card,Delivered
+QB2088,2025-04-01 11:39:23,Burgertown USA,Whom Pizza,Pizza,4,193.49,773.96,Phoenix,UPI,Delivered
+QB2089,2025-04-19 10:41:20,Tex Mex Express,Main Beverage,Indian,1,131.7,131.7,Chicago,Cash on Delivery,Delivered
+QB2090,2025-04-10 22:14:57,Papa Mozza,Change Beverage,Dessert,5,460.66,2303.3,Houston,Cash on Delivery,Delivered
+QB2091,2025-04-02 23:38:16,Southern Spice,Ahead Pizza,Wrap,2,61.59,123.18,New York,Cash on Delivery,Delivered
+QB2092,2025-04-20 10:12:17,Papa Mozza,Check Sushi,Wrap,5,405.71,2028.55,Chicago,Credit Card,Delivered
+QB2093,2025-04-24 17:11:56,Southern Spice,Most Beverage,Sushi,3,403.42,1210.26,Chicago,Net Banking,Delivered
+QB2094,2025-04-22 17:29:21,Burgertown USA,Power Sushi,Burger,1,458.45,458.45,Chicago,Net Banking,Delivered
+QB2095,2025-04-13 09:08:30,Burgertown USA,Else Indian,Beverage,5,330.77,1653.85,New York,UPI,Delivered
+QB2096,2025-04-13 08:30:11,Southern Spice,Institution Burger,Sushi,4,224.7,898.8,Phoenix,Credit Card,Delivered
+QB2097,2025-03-31 06:06:14,Tex Mex Express,Week Burger,Wrap,4,258.46,1033.84,New York,Cash on Delivery,Delivered
+QB2098,2025-03-30 05:51:52,Southern Spice,Human Beverage,Sushi,2,188.19,376.38,Phoenix,Cash on Delivery,Delivered
+QB2099,2025-04-10 04:23:36,Roll N Sushi,Toward Wrap,Dessert,1,468.25,468.25,Houston,Cash on Delivery,Cancelled
